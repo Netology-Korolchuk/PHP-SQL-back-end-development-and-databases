@@ -1,0 +1,37 @@
+[
+  {
+    "Id": 1,
+    "FirstName": "Alexander",
+    "LastName": "Ivanov",
+    "Adress": "Moscow, Mira Street, 25 - 15",
+    "PhoneNumbers": "+7 495 321 24 56"
+  },
+ {
+    "Id": 2,
+    "FirstName": "Boris",
+    "LastName": "Glebov",
+    "Adress": "Novosibirst, Gogolya Street, 5 - 17",
+    "PhoneNumbers": "+7 383 145 23 78"
+  },
+  {
+    "Id": 3,
+    "FirstName": "Grigory",
+    "LastName": "Yakushev",
+    "Adress": "Kazan, Lenina Street, 7 - 32",
+    "PhoneNumbers": "+7 222 22 34 56"
+  },
+  {
+    "Id": 4,
+    "FirstName": "Yulia",
+    "LastName": "Savicheva",
+    "Adress": "Vladivostok, Primorskaya street, 12 - 123",
+    "PhoneNumbers": "+7 333 45 22 22"
+  },
+    {
+    "Id": 5,
+    "FirstName": "Rostislav",
+    "LastName": "Petrov",
+    "Adress": "Moscow, Vahrusheva street, 5 - 5",
+    "PhoneNumbers": "+7 495 111 22 33"
+  }
+]
