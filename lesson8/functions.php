@@ -13,6 +13,8 @@ if($user == $user_data['username'] && $user_pass == $user_data['password'])
     {
     $_SESSION['login'] =  $user_data['username'];
     $_SESSION['password'] =  $user_data['password'];
+    
+    $_SESSION['fio'] =  'Товарищ Администратор';
 
     header('Location: admin.php');
     }
