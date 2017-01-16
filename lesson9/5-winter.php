@@ -1,11 +1,11 @@
 <?php
   class Winter {
 
-    public $year; //год
-    public $averageTemperature; //средняя температура
-    public $snowLevel; //количество снега
-    public $sunnyDays; //количество солнечных дней
-    public $windPower; //средняя сила ветра
+    public $year; //РіРѕРґ
+    public $averageTemperature; //СЃСЂРµРґРЅСЏСЏ С‚РµРјРїРµСЂР°С‚СѓСЂР°
+    public $snowLevel; //РєРѕР»РёС‡РµСЃС‚РІРѕ СЃРЅРµРіР°
+    public $sunnyDays; //РєРѕР»РёС‡РµСЃС‚РІРѕ СЃРѕР»РЅРµС‡РЅС‹С… РґРЅРµР№
+    public $windPower; //СЃСЂРµРґРЅСЏСЏ СЃРёР»Р° РІРµС‚СЂР°
     
 
     public function __construct($year, $averageTemperature, $snowLevel, $sunnyDays, $windPower) {
@@ -16,19 +16,19 @@
       $this->windPower = $windPower;
 }
 
-//приходить
+//РїСЂРёС…РѕРґРёС‚СЊ
 public function come() {
     }
-//уходить
+//СѓС…РѕРґРёС‚СЊ
 public function leave() {
     }
-//радовать
+//СЂР°РґРѕРІР°С‚СЊ
 public function delight() {
     }
-//злиться
+//Р·Р»РёС‚СЊСЃСЏ
 public function angry() {
     }
-//морозить
+//РјРѕСЂРѕР·РёС‚СЊ
 public function freeze() {
     }
 
